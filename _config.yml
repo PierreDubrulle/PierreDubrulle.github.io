@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pierre Dubrulle"
 description              : "Mon premier site"
-url                      : "https://pierredubrulle.github.io/"
+url                      : "https://github.com/PierreDubrulle/PierreDubrulle.github.io"
 baseurl                  : "bash-for-data/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
