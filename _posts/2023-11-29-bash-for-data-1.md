@@ -37,7 +37,7 @@ En utilisant le fichier répertoriant les sets Lego, on peut afficher les 20 pre
 ```bash
 head -n 20 sets.csv
 ```
-<img src="{{site.url}}_posts/head.gif" alt="Exemple head" />
+<img src="{{ "assets/gifs/head.gif" | prepend: site.url}}" alt="head exemple" />
 <!-- ![Exemple head](/_posts/gifs/head.gif) -->
 Par défaut la commande `head` renverra les 10 premières lignes.
 
@@ -49,7 +49,7 @@ Elle s'utilise de la même façon que la commande `head`.
 ```bash
 tail fichier.csv
 ```
-<img src="{{site.url}}_posts/tail.gif" alt="Exemple tail" />
+<img src="{{ "assets/gifs/tail.gif" | prepend: site.url}}" alt="tail exemple" />
 <!-- ![Exemple tail](/_posts/gifs/tail.gif) -->
 
 ## 4. Notions de redirection
