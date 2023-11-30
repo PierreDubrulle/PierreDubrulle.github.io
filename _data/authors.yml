@@ -1,0 +1,8 @@
+Pierre Dubrulle:
+  name        : "Pierre Dubrulle"
+  bio         : "Botté de marbre, ganté de plomb"
+  avatar      : "/assets/images/tusk-album-cover.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "dubrulle.pierre@proton.me"

@@ -7,6 +7,10 @@ tags: [linux, data, tail, cli, head]
 ___
 ## Partie 1: Exploration de Données avec les Commandes cat, head, tail, et Notions de Redirection
 
+  ## if there is an author bio
+  {% if author.bio %}
+      {% include author_bio.html %}
+  {% endif %}
 __*Par Pierre Dubrulle*__
 
 
