@@ -1,6 +1,7 @@
 ---
 categories: [data, bash]
 tags: [linux, data, tail, cli, head]
+---
 
 # Optimiser la Manipulation de Données avec Bash : Une Approche Holistique
 ___
@@ -41,6 +42,7 @@ En utilisant le fichier répertoriant les sets Lego, on peut afficher les 20 pre
 ```bash
 head -n 20 sets.csv
 ```
+{% include figure image_path="/assets/gifs/head.gif" alt="head exemple" %}
 <img src="{{ "assets/gifs/head.gif" | prepend: site.url}}" alt="head exemple" />
 <!-- ![Exemple head](/_posts/gifs/head.gif) -->
 Par défaut la commande `head` renverra les 10 premières lignes.
