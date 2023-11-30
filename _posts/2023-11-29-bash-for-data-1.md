@@ -42,9 +42,7 @@ En utilisant le fichier répertoriant les sets Lego, on peut afficher les 20 pre
 ```bash
 head -n 20 sets.csv
 ```
-{% include figure image_path="/assets/gifs/head.gif" alt="head exemple" %}
 <img src="{{ "assets/gifs/head.gif" | prepend: site.url}}" alt="head exemple" />
-<!-- ![Exemple head](/_posts/gifs/head.gif) -->
 Par défaut la commande `head` renverra les 10 premières lignes.
 
 ## 3. Commande `tail`
@@ -56,7 +54,6 @@ Elle s'utilise de la même façon que la commande `head`.
 tail fichier.csv
 ```
 <img src="{{ "assets/gifs/tail.gif" | prepend: site.url}}" alt="tail exemple" />
-<!-- ![Exemple tail](/_posts/gifs/tail.gif) -->
 
 ## 4. Notions de redirection
 La redirection en Bash permet de rediriger la sortie standard (stdout) ou l'entrée standard (stdin) d'une commande vers un fichier ou depuis un fichier.
