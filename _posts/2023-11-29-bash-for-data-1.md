@@ -1,3 +1,7 @@
+---
+categories: [data, bash]
+tags: [linux, data, tail, cli, head]
+
 # Optimiser la Manipulation de Données avec Bash : Une Approche Holistique
 ___
 ## Partie 1: Exploration de Données avec les Commandes cat, head, tail, et Notions de Redirection
